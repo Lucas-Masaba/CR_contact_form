@@ -33,9 +33,6 @@ After you have copied the link, enter the command below in your terminal
 - Twitter: [@twitterhandle](https://twitter.com/MasabaLuke)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/khusiima-luke-masaba-59060a121)
 
-## Online View
-
-[Here](https://lucas-masaba.github.io/my_portfolio/) is a link to the online view of my website
 
 ## Show your support
 
