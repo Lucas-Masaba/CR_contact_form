@@ -2,11 +2,6 @@
 
 > My portfolio
 
-![screenshot](./pics/screenshot.png)
-
-
-
-
 ## Built With
 
 - HTML

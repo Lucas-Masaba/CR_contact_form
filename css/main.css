@@ -330,10 +330,9 @@ li {
   display: flex;
   flex-direction: column;
   background-image: url("./pics/contact.png");
-  background-color: #6070ff;
+  background-color: #fff;
   background-repeat: no-repeat;
   background-size: contain;
-  border-top-left-radius: 80px;
   background-position: 100%;
   padding: 25px;
   align-content: center;
@@ -343,7 +342,7 @@ li {
 .contact_heading {
   padding-top: 50px;
   text-align: center;
-  color: #fff;
+  color: #000;
   font-family: 'Poppins', sans-serif;
   font-size: 40px;
   line-height: 52px;
@@ -353,7 +352,7 @@ li {
 
 .contact_text {
   text-align: center;
-  color: #fff;
+  color: #000;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
   line-height: 28px;
@@ -388,10 +387,9 @@ form {
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
-  color: #6070ff;
+  color: #fff;
   padding: 16px;
-  background: #fff;
-  border-radius: 8px;
+  background: #ff6b00;
   text-align: center;
   letter-spacing: 0.03em;
 }
